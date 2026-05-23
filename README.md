@@ -52,7 +52,7 @@ Me Llamo Germán Kreibohm Acotto y soy Desarrollador Full-Stack, mi foco está e
 </p>
 
 
-<summary><strong>Frontend</strong></summary>
+<strong>Frontend</strong>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Astro](https://img.shields.io/badge/Astro-0A0A0A?style=for-the-badge&logo=astro&logoColor=white)
@@ -61,14 +61,14 @@ Me Llamo Germán Kreibohm Acotto y soy Desarrollador Full-Stack, mi foco está e
 
 
 
-<summary><strong>Backend</strong></summary>
+<strong>Backend</strong>
 
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 
-<summary><strong>Datos & DevOps</strong></summary>
+<strong>Datos & DevOps</strong>
 
 ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -78,7 +78,7 @@ Me Llamo Germán Kreibohm Acotto y soy Desarrollador Full-Stack, mi foco está e
 ![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 
-<summary><strong>Diseño & herramientas</strong></summary>
+<strong>Diseño & herramientas</strong>
 
 ![WordPress](https://img.shields.io/badge/WordPress-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=21759B)
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E)
